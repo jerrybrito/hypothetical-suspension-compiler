@@ -1,0 +1,2 @@
+# Requires: quasi-cycle
+# (Not available on PyPI)
